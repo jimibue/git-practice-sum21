@@ -1,1 +1,1 @@
-useState has state and a setter of said state. it can be an array a boolean or even set to to null. it can be updated and it can be called upon to view that data.
+useState has state and a setter of said state. it can be an array a boolean or even set to to null. it can be updated and it can be called upon to view that data. yo.
