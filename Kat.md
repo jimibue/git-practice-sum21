@@ -1,0 +1,1 @@
+useState is a Hook (function) that allows you to have state variables in functional components
