@@ -8,4 +8,6 @@
 5. commit, push up to github (to your branch)
 6. create a pull request.
 
+* wait here *
+
 7. do a review of someone elses branch
